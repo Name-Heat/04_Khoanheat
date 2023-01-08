@@ -1,6 +1,6 @@
 <?php
     function myTest() {
-    static $x = 0;
+    static $x = 3;
     echo $x;
     $x++;
     }
