@@ -16,7 +16,7 @@ define("SITE_URL", "https://www.tutorialrepublic.com/");
 // Using constant
 echo '<br>Thank you for visiting - ' . SITE_URL;
 
-define("databse_name","sourng_db");
+define("databse_name","khoanheat_db");
 define("user_name","root");
 define("password","Pwd123");
 
